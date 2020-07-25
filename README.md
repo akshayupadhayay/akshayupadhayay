@@ -15,4 +15,4 @@
 <code><img height="30" src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/docker.png"></code>
 <code><img height="30" src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/Teamcity_Logo.png"></code>
 
-<img src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/linux_room.png" width="1000" height="550">
+<img src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/linux_room.png" width="1000" height="450">
