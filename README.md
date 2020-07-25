@@ -19,7 +19,8 @@
 <code><img height="30" src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/resources/Teamcity_Logo.png"></code>
 
 
-<img src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/linux_room.png" width="1000" height="450">
+
+<img src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/resources/linux_room.png" width="1000" height="450">
 
 
 <p align="center"> 
