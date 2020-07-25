@@ -15,4 +15,11 @@
 <code><img height="30" src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/docker.png"></code>
 <code><img height="30" src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/Teamcity_Logo.png"></code>
 
+
 <img src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/linux_room.png" width="1000" height="450">
+
+
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/{akshayupadhayay}/count.svg" />
+</p>
