@@ -21,7 +21,7 @@
 
 
 
-<img src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/resources/linux_room.png" width="1000" height="450">
+<img src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/resources/lab%20(2).jpg" width="1000" height="450">
 
 
 <p align="center"> 
