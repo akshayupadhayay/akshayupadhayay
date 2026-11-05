@@ -19,6 +19,7 @@
 <code><img height="30" src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/resources/bash.png"></code>
 <code><img height="30" src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/resources/docker.png"></code>
 <code><img height="30" src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/resources/Teamcity_Logo.png"></code>
+<code><img height="30" src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/resources/playwright.png"></code>
 
 
 
@@ -27,7 +28,8 @@
 
 <p align="center"> 
   Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/{akshayupadhayay}/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=akshayupadhayay&style=for-the-badge">
+  
 </p>
 
 
