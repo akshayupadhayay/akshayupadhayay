@@ -19,7 +19,7 @@
 <code><img height="30" src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/resources/bash.png"></code>
 <code><img height="30" src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/resources/docker.png"></code>
 <code><img height="30" src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/resources/Teamcity_Logo.png"></code>
-<code><img height="30" src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/resources/playwright.png"></code>
+<code><img height="60" src="https://github.com/akshayupadhayay/akshayupadhayay/blob/master/resources/playwright.png"></code>
 
 
 
